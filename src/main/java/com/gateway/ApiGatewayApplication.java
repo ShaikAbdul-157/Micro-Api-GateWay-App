@@ -7,6 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ApiGatewayApplication {
 
 	public static void main(String[] args) {
+	for(int i=0;i<=10;i++){
+System.out.println("Hassainbe code is running ....!");
+}
 		SpringApplication.run(ApiGatewayApplication.class, args);
 	}
 
