@@ -11,6 +11,11 @@
     <h1>Hello, World!</h1>
     <script>
         console.log('Inline JavaScript is working!');
+        //Bug-122 Delete-Fixed
+        function deletefunction(){
+            console.log('Delete function called!');
+            //Add you delete logic here
+        }
     </script>
 </body>
 </html>
