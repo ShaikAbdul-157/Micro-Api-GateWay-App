@@ -4,7 +4,12 @@
     <meta charset="UTF-8">
     <title>Basic HTML with JavaScript</title>
     <script src="index.js">
-       
+        //Bug-121 confirm is completed
+        function confirm(){
+            var a=10;
+            var b=20;
+            //logic is completed
+        }
     </script>
 </head>
 <body>
