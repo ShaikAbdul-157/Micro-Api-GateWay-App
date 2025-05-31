@@ -10,6 +10,24 @@
             var b=20;
             //logic is completed
         }
+        //Bug-300 getting is completed
+        function getting(){
+            var a=10;
+            var b=20;
+            //logic is completed
+        }
+        //Bug-301 Betting is completed
+        function Betting(){
+            var a=10;
+            var b=20;
+            //logic is completed
+        }
+        //Bug-302 Hatting is completed
+        function Hatting(){
+            var a=10;
+            var b=20;
+            //logic is Sssscompleted
+        }
     </script>
 </head>
 <body>
