@@ -21,6 +21,11 @@
             console.log('Delete function called!');
             //Add you delete logic here
         }
+        //Bug-400 update-Fixed
+        function updatefunction(){
+            console.log('Update function called!');
+            //Add you Update logic here
+        }
     </script>
 </body>
 </html>
